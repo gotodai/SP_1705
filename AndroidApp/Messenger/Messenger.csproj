@@ -56,6 +56,7 @@
   <ItemGroup>
     <Compile Include="Fragment1.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Message_Fragment.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
